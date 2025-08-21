@@ -5,10 +5,10 @@ This project explores and analyzes Airbnb listing data to uncover insights about
 
 The analysis is conducted in Python using Jupyter Notebook, with visualizations and statistical summaries to interpret the dataset effectively.
 
-📂 Repository Structure
-├── edaproject_of_airbnb.ipynb   # Main Jupyter Notebook with analysis
+#Repository Structure
+├── edaproject_of_airbnb.ipynb   # google collab notebook with analysis
 ├── README.md                    # Project documentation
-└── data/                        # (Optional) Dataset folder if included
+└── data/                        #  Dataset folder
 
 # Analysis Highlights
 
